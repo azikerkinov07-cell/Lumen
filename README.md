@@ -4,6 +4,12 @@
 
 It is designed with a simple syntax, readable code, and a lightweight compiler pipeline.
 
+## Clone repository
+
+```bash
+git clone git@github.com:azikerkinov07-cell/Lumen.git
+```
+
 ## Features
 
 - Custom syntax and keywords
