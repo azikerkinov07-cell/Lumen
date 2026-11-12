@@ -1,0 +1,7 @@
+func main(): void {
+    number age = 12
+    string name = "Mikhail"
+    boolean active = true
+
+    println("Name: $name. Age: $age. Active: $active.")
+}

@@ -1,0 +1,21 @@
+# Compiled files
+/build/
+/out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java
+*.jar
+*.war
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
